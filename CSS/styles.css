@@ -9,7 +9,6 @@
             text-align: center;
             font-size: 40px;
             font-weight: bolder;
-            background-color: wheat;
         }
     
         section {
@@ -22,7 +21,6 @@
             -ms-flex: 1;
             flex: 1;
             padding: 20px;
-            background-color: lightblue;
         }
 
         aside {
@@ -31,7 +29,6 @@
             -ms-flex: 1;
             flex: 1;
             padding: 10px;
-            background-color: salmon;
         }
     
         nav, ul {
@@ -47,13 +44,11 @@
             -ms-flex: 3;
             flex: 3;
             padding: 10px;
-            background-color:slategrey;
         }
     
         footer {
             padding: 10px;
             text-align: center;
-            background-color: darkseagreen;
         }
     
         @media (max-width: 600px) {
@@ -76,4 +71,11 @@
         button{
             padding: 6px;
             border-radius: 10px;
+        }
+
+        body {
+            heigh:665px;
+            background-image: ("D:\Jose\UPS\6to ciclo\Programación Hipermedial\Practica 1\Ejercicio 1\images\fondo.jpg");
+            background-repeat: repeat-y;
+            background-size: 10rem;
         }
