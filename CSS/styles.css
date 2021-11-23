@@ -35,6 +35,7 @@
         }
     
         nav, ul {
+            align-content: center;
             font-family: "Mulish", sans-serif;
             list-style-type: none;
             padding: 0;
@@ -70,4 +71,9 @@
         table{
             align-items: center;
             align-content: center;
+        }
+
+        button{
+            padding: 6px;
+            border-radius: 10px;
         }
