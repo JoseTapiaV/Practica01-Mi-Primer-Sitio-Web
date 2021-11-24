@@ -63,7 +63,7 @@
             }
         }
 
-        td, th {
+        td, th, td, tr {
             border: black 1px solid;
             background-color: rgb(196, 197, 179);
         }
